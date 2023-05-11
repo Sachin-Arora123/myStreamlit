@@ -63,7 +63,7 @@ st.title('StreamLit tutorial')
 st.header('This is a basic tutorial on streamlit library usage')
 
 if menu == 'Home':
-    st.image('/Users/abc/Desktop/My Docs/Infosys docs/WhatsApp Image 2022-06-21 at 3.16.28 PM.jpeg')
+    st.image('https://onleitechnologies.com/wp-content/uploads/2021/12/Untitled_design__6_-removebg-preview-1-300x169.png')
 elif menu == 'Fill the form':
     with st.form('My Form') :
         name = st.text_input('Enter the name')
